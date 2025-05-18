@@ -1,3 +1,8 @@
+# for this program
+/temp
+contest/*
+!contest/paste-here
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
