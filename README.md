@@ -2,8 +2,18 @@
 
 # Convert Hoj format samples to Quera
 
-This program works very simply. Just copy and paste the folder containing the Hoj test cases into the contest folder. Then run the program. Finally, in the contest folder, only the folder containing the Quera formats will remain.
+This program works very simply. Just copy and paste the folder containing the `Hoj test cases` into the [contest folder](./contest). Then run the program. Finally, in the [contest folder](./contest), only the folder containing the `Quera formats` will remain.
 Finally, just upload the zip file corresponding to the question in the Quera questions and that's it!
+
+To run the program, run the following command
+```bash
+python main.py
+```
+or below
+```bash
+python3 main.py
+
+```
 
 <details><summary><strong>Quera files format</strong></summary>
 
